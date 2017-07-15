@@ -1,0 +1,13 @@
+Ted
+Sam
+Sal
+Ron
+Nan
+Lee
+Kim
+Gil
+Eve
+Dan
+Bob
+Ann
+The NodeCount = 12 and the height is 4

@@ -1,0 +1,5 @@
+There are 2 components
+There are 3 edges
+There are  5 vertices
+534 
+

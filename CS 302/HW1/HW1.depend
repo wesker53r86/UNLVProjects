@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1453872967 source:d:\local disk d\notepad++\projects\cs 302\hw1.cpp
+	<iostream>
+
+1454484166 source:d:\local disk d\notepad++\projects\cs 302\hw2.cpp
+	<iostream>
+	<fstream>
+

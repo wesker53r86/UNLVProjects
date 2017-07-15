@@ -1,0 +1,6 @@
+Inorder: 5 6 9 10 11 
+Preorder: 10 6 5 9 11 
+Inorder: 5 6 9 11 
+Preorder: 6 5 9 11 
+Inorder: 
+Preorder: 

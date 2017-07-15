@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1460204594 source:d:\local disk d\notepad++\projects\cs 302\code block projects\hw6\hw6.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<string.h>
+	<cstdlib>
+	<stdio.h>
+
